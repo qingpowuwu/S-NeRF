@@ -5,7 +5,7 @@
 > **ICLR 2023**
 
 ![demo](./assets/demo.gif)
-
+https://github.com/caizhongang/waymo_kitti_converter 可以把 waymo数据的 ’segment-10231929575853664160_1160_000_1180_000_with_camera_labels.tfrecord‘ 的文件变成 kitti 的格式
 
 We introduce S-NeRF, a robust system to synthesizing large unbounded street views for autonomous driving using Neural Radiance Fields (NeRFs). This project aims to enhance the realism and accuracy of street view synthesis and improve the robustness of NeRFs for real-world applications. (e.g. autonomous driving simulation, robotics, and augmented reality)
 
